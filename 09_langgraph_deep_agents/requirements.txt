@@ -1,0 +1,6 @@
+# Requirements for LangGraph Deep Agents Module
+langgraph
+langchain
+langchain-openai
+deepagents
+python-dotenv
